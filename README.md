@@ -9,7 +9,7 @@ _35 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/Dovile-dote/4-yoga
+Site published at: https://dovile-dote.github.io/3-ufo/
 
 Design: [UFO](https://cdn.discordapp.com/attachments/850245533838868480/951399092746092554/404-1.png)
 
